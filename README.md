@@ -148,7 +148,7 @@ poetry install</pre><div class="zeroclipboard-container">
 </thead>
 <tbody>
 <tr>
-<td><a href="/HumanSignal/Adala/blob/master/examples/classification_skill.ipynb"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分类技能</font></font></a></td>
+<td><a href="https://github.com/HumanSignal/Adala/blob/master/examples/classification_skill.ipynb"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分类技能</font></font></a></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将文本分类到一组预定义的标签中。</font></font></td>
 <td><a href="https://colab.research.google.com/github/HumanSignal/Adala/blob/master/examples/classification_skill.ipynb" rel="nofollow"> <img src="https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667" alt="在 Colab 中打开" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" style="max-width: 100%;"></a></td>
 </tr>
